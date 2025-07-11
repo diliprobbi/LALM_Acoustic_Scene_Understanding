@@ -2,7 +2,7 @@
 Results of acoustic scene understanding on polyphonic soundscapes with controlled polyphony using Large Audio Language Models.
 
 The 'usm_polyphonic_events.json' gives the different metadata information of the USM validation set and the placeholders to store the LALM responses for each audio. 
-USM ID - Unique identifier for each audio clip.
+USM ID - Unique identifier for each audio clip
 No. of Polyphonic Events - No. of audio classes in the audio clip.
 Classes - The list of classes in the audio clip.
 Loudness - The Mixing co-efficient value in dB in the same order as the list classes.
