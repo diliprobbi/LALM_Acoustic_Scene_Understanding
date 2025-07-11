@@ -1,6 +1,6 @@
 # LALM_Acoustic_Scene_Understanding
 Evaluation files of acoustic scene understanding on polyphonic soundscapes with controlled polyphony using Large Audio Language Models.
-
+The caption data in CSV file was obtained using LLM prompted caption generation using Qwen 2.5 7B parameter model using weakly labelled ground tags.
 The 'usm_polyphonic_events.json' gives the different metadata information of the USM validation set and the placeholders to store the LALM responses for each audio. 
 
 
